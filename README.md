@@ -26,7 +26,7 @@ Your task is to complete the `TODO` items found in the `main.py` source file.
 
 8. Confirm your forked repository has a green check mark.
 
-<img src="https://github.com/btrust-builders/python-week-1-exercises/blob/main/success.png" width="1000" />
+<img src="https://github.com/btrust-builders/python-week-1-exercises/blob/main/success.png" width="500" />
 
 9. Submit your solution to this form: [Google form](https://forms.gle/eDRGAJXpLqRxEExR6).
 
