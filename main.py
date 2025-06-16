@@ -184,9 +184,9 @@ def generate_address(prefix: str = "bc1q") -> str:
         prefix: Address prefix (default is bech32)
         
     Returns:
-        Mock address string
+        Mock address string of length 32
     """
-    # TODO: Generate a suffix of random alphanumeric characters (length = 32 - len(prefix))
+    # TODO: Generate a suffix of random alphanumeric characters (length = 32 - length of the prefix)
     # TODO: Concatenate the prefix and suffix to form the mock address
 
 
