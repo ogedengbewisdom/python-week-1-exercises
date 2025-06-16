@@ -57,16 +57,16 @@ def tx_priority(size_bytes, fee_btc):
     # TODO: Calculate fee rate and use if-elif-else to determine priority
 
 
-def is_mainnet(address_type):
-    """Check if the address type is for Bitcoin mainnet.
+def is_mainnet(network):
+    """Check if the network is for Bitcoin mainnet.
     
     Args:
-        address_type: String like 'mainnet' or 'testnet'
+        network: String like 'mainnet', 'testnet', 'signet' or 'regtest'
         
     Returns:
         True if mainnet, False otherwise
     """
-    # TODO: Convert address_type to lowercase and compare with "mainnet"
+    # TODO: Convert network to lowercase and compare with "mainnet"
 
 
 def is_in_range(value):
