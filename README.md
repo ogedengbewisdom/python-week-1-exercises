@@ -28,7 +28,7 @@ Your task is to complete the `TODO` items found in the `main.py` source file.
 
 <img src="https://github.com/btrust-builders/python-week-1-exercises/blob/main/success.png" width="300" />
 
-9. Submit your solution to this form: [Google form](https://forms.gle/eDRGAJXpLqRxEExR6).
+9. Submit your solution to this form: [Google form](https://forms.gle/5b3ETjSwdhKjePHU9).
 
 PS: You can commit and push as often as you like and GitHub Actions will re-evaluate your code every time.
 You will need to look through the auto-grader logs (in the "Actions" tab) to see what exactly you got right or wrong.
