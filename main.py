@@ -213,7 +213,8 @@ def halving_schedule(blocks: List[int]) -> Dict[int, int]:
     Returns:
         Dictionary mapping block heights to their block reward in satoshis
     """
-    # TODO: Initialize the base reward in sats
+    # TODO: Initialize the base reward for the genesis block in sats
+    # TODO: Initialize the halving interval approximately every four years in blocks
     # TODO: Iterate through each block height, compute halvings, and calculate reward
     # TODO: Store results in a dictionary
 
