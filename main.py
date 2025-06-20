@@ -297,6 +297,7 @@ def find_utxo_with_min_value(utxos: List[Dict[str, int]], target: int) -> Dict[s
         return {}
     else:
         return min(filtered_utxos, key=lambda utxo: utxo['value'])
+        
 
 def create_utxo(txid: str, vout: int, **kwargs) -> Dict[str, Union[str, int]]:
     """Create a UTXO dictionary with optional additional fields."""
